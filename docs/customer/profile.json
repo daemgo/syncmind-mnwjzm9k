@@ -1,0 +1,111 @@
+{
+  "companyName": "中冶南方热工（武汉）有限公司",
+  "shortName": "中冶南方热工",
+  "summary": "中冶南方全资子公司，专注冶金工业炉领域七十余年，全球炉型覆盖最全的冶金工业炉全产业链系统解决服务商，国家级专精特新小巨人与制造业单项冠军。",
+  "industry": "专用设备制造",
+  "subIndustry": "冶金工业炉装备与服务",
+  "scale": "中型企业（188人，2023年）",
+  "mainBusiness": "工业炉新技术开发、技术咨询、技术转让及技术服务；工业炉相关设备、材料的生产、销售及成套供应；工业炉工程设计、工程总承包、项目管理；设备运营管理、节能服务",
+  "products": [
+    { "name": "工业炉工程设计与总承包", "description": "涵盖六大工艺炉型的工程设计、EPC总承包服务，覆盖全炉型" },
+    { "name": "热工装备制造", "description": "燃烧装备、换热装备、感应加热装备等热工核心装备研发与制造" },
+    { "name": "数智服务", "description": "二级数学模型开发等数字化、智能化服务" },
+    { "name": "节能服务与咨询", "description": "工业炉节能优化、运营管理、能效提升服务" }
+  ],
+  "targetCustomers": ["国内各大钢铁企业", "有色金属企业", "机械/化工/环保等行业"],
+  "businessModel": "工程技术+热工装备+数智服务的热工全产业链模式",
+  "rating": "BBB",
+  "tags": ["央企子公司", "国家级专精特新", "制造业单项冠军", "冶金工业炉", "EPC总承包", "数智化转型", "节能服务", "全球首台套"],
+  "website": "https://www.wisdri.com",
+  "slogan": null,
+  "isListed": false,
+  "stockCode": null,
+  "revenueScale": "数亿至十亿级",
+  "registration": {
+    "registeredName": "中冶南方热工（武汉）有限公司",
+    "registeredCapital": "17000万人民币",
+    "paidCapital": null,
+    "establishedDate": "2005-12-29",
+    "legalRepresentative": "沈胜节",
+    "businessStatus": "存续",
+    "shareholders": ["中冶南方工程技术有限公司（疑似全资）"],
+    "branchCount": null,
+    "interpretation": "注册资本1.7亿元在热工装备细分赛道属于较高规模，反映承接大型EPC项目的资金实力；实缴资本未公开，需关注资金是否足额到位；法人独资结构说明母公司管控集中。",
+    "organizationType": "大型集团子公司（事业部型）",
+    "keyFindings": [
+      "注册资本1.7亿元支撑大型EPC项目承接，在冶金工业炉赛道属于资金充裕型选手",
+      "法人独资企业说明战略决策权集中在母公司（中冶南方/中国五矿），子公司自主决策权限有限",
+      "存续19年、多次创下全球首台套记录，说明技术积累深厚、行业地位稳固"
+    ]
+  },
+  "organization": {
+    "type": "大型集团全资子公司，事业部制结构",
+    "decisionChain": "需求提出（生产/技术部门）→ 内部评估 → 子公司管理层审批 → 报母公司（中冶南方）备案或审批 → 五矿集团战略管控层",
+    "keyPersons": [
+      { "name": "沈胜节", "title": "法定代表人/总经理（疑似）" },
+      { "name": "杨某", "title": "企业高管（姓名不完整，来源：公开数据）" }
+    ],
+    "salesStrategy": "依托央企背景和品牌优势切入头部钢企，技术方案+装备配套+数智服务打包销售；破冰重点在技术交流与样板工程展示，关注能效与环保合规需求"
+  },
+  "timing": {
+    "phase": "数字化扩张期",
+    "analysisBasis": [
+      "数智服务类岗位招聘（二级数学模型开发）明确释放数字化转型信号",
+      "国家双碳政策驱动钢铁行业超低排放改造需求持续释放",
+      "作为国家级专精特新企业，有数字化升级的政策和资金支持窗口"
+    ],
+    "entryStrategy": "以工业炉数智化改造、设备远程运维、能耗优化系统为切入点，结合节能服务能力提供软硬一体方案；优先通过技术交流会、样板工程参观建立信任",
+    "urgency": "窗口期6-12个月，钢铁行业超低排放改造和能效升级是政策刚需，竞争对手已陆续布局数字化工业炉服务，需尽快建立标杆案例"
+  },
+  "hiring": {
+    "keySignals": [
+      "2026届校园招聘聚焦硕博毕业生，方向为热能工程、动力工程及工程热物理、机械工程",
+      "数智服务类岗位（含二级数学模型开发）表明公司正在推进工业炉数字化智能化",
+      "招聘岗位涵盖工程技术类、热工装备类、数智服务类三大方向，合计需求较大"
+    ]
+  },
+  "competition": {
+    "industryRank": "全球炉型覆盖最全",
+    "marketShare": null,
+    "mainCompetitors": ["其他冶金设计院下属工业炉公司", "大型钢铁企业配套炉窑队伍", "国际工业炉巨头"],
+    "knownClients": ["鞍钢", "德信钢铁（印尼）", "九江线材", "国内各大主要钢铁企业"]
+  },
+  "riskAndPolicy": {
+    "legal": {
+      "lawsuitCount": 74,
+      "executedPerson": false,
+      "dishonestPerson": false,
+      "businessAnomalies": [],
+      "equityFreeze": false
+    },
+    "policy": {
+      "isSpecializedSME": true,
+      "smeLevel": "国家级",
+      "isHighTech": true,
+      "digitalTransformation": false,
+      "esgGreen": false
+    }
+  },
+  "painPoints": [
+    { "area": "生产管理", "description": "EPC项目进度管理依赖传统方式，多项目并行时协调复杂度高", "severity": "中" },
+    { "area": "质量管理", "description": "工业炉大型项目定制化程度高，质量追溯和标准化管理难度大", "severity": "中" },
+    { "area": "设备管理", "description": "热工装备离散制造模式，设备状态监控和维护计划精细化管理不足", "severity": "中" },
+    { "area": "成本核算", "description": "大型EPC项目成本构成复杂，实时成本归集与利润分析存在滞后", "severity": "高" },
+    { "area": "数智服务", "description": "二级数学模型开发等数智业务刚刚起步，数字化产品交付能力有待积累", "severity": "高" }
+  ],
+  "opportunities": [
+    { "area": "设备管理", "description": "热工装备物联网+预测性维护系统：实时监控燃烧状态、炉衬寿命，延长设备周期，降低突发故障风险", "likelihood": "高" },
+    { "area": "项目管理", "description": "EPC项目管理系统：将设计、采购、施工进度打通，实现多项目可视化管理，解决多项目并行协调痛点", "likelihood": "中" },
+    { "area": "数智服务", "description": "工业炉数字孪生+能耗优化平台：将现有节能服务能力产品化、SaaS化，向客户批量交付数字化节能降耗方案", "likelihood": "中" }
+  ],
+  "analysisPath": "B+",
+  "confidence": 0.78,
+  "metadata": {
+    "createdAt": "2026-04-13",
+    "updatedAt": "2026-04-13",
+    "createdBy": "AI",
+    "version": "1.0",
+    "sources": ["web_search", "wisdri.com"],
+    "confidence": 0.78
+  }
+}
